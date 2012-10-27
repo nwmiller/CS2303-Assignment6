@@ -1,0 +1,32 @@
+Nathaniel Miller - nwmiller
+nwmiller@wpi.edu
+
+Assignment #6 readme:
+
+	Program Description:
+		This program's purpose is to demonstrate classes and class hierarcy of C++, using objects. This assigment makes use of multiple classes, both base (parent) and sub (dervised) classes. Printing the data fields of these classes, whether they be apart of the object being printed or inherited from other classes, is demonstrated. Invocation of methods in superclasses is utilized as well. Furthermore, the differences between static and dynmaic binding (using virtual methods) is implemented and demonstrated. Finally, comparisions between fields inside objects is shown.
+
+Instructions:
+	1. Create directory for all assigment files. Or use an existing directory.
+
+	2. Copy or move all source files, including headers, makefile, and Doxyfile to 			created or existing directory.
+
+	3. In Terminal travel to directory that the files were copied or moved into.
+
+	4. Use the "make" (without quotes) command in Terminal in order to both 		compile all the .c files into .o files and to link them into the 			respective executables with their proper dependcies. See the makefile
+		for more detail.
+
+	5. To run the program, use the following command in Terminal:
+		Parts 1-4: ./employee
+		
+	6. To generate HTML files for the program and code documentation,
+		simply use the "make docs" (without quotes) command in Terminal.
+		This will generate all the necessary HTML files and copy them to the
+		public_html (make sure a directory "assig6" is in the public_html 			folder) folder. The HTML files should then be viewable online.
+
+
+Thanks.
+
+Nathaniel Miller
+nwmiller@wpi.edu
+WPI '14
